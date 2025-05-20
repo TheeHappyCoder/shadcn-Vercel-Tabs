@@ -4,7 +4,7 @@ A simple and stylish tab component starter using ShadCN UI and Vercel-style aest
 
 ## 🚀 Live Demo
 
-Check out the live version of the app [here](https://my-app-smoky-seven-43.vercel.app/).
+Check out the live version of the app [here](https://vercel-styled-tabs.vercel.app/).
 
 ## 🛠️ Getting Started
 
